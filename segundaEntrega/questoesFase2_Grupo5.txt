@@ -1,0 +1,32 @@
+
+      1 - Qual os produtos disponíveis em quantidades maiores que 100 unidades no centro de distribuição localizado em 'São Paulo' capital?
+
+      2 - O produto 'iPhone 11' está estocado em quais centros de distribuição?
+
+      3 - Quais produtos tiveram avaliações acima de 5 durante o mês de Janeiro de 2020?
+
+      4 - Recupere o nome dos fornecedores cujo preço médio dos seus produtos não é maior que R$ 163,00.
+
+      5 - Mostre a quantidade dos produtos 'Caixa de Som' e seu fornecedor, que foram vendidos com 45% de desconto em Fevereiro de 2020.
+
+      6 - Dos produtos que já foram em algum momento adicionados ao carrinho por algum cliente, liste o seu nome e preço. Ordene a listagem resultante pelo valor do produto, de forma crescente.
+            
+      7 - Qual o produto da categoria 'TV' que possui o menor preço?
+      
+      8 - Qual o nome e o preço dos produtos da categoria 'Instrumentos Musicais' que foram visualizados por algum cliente?
+      
+      9 - Qual a quantidade de compras feitas por 'José da Costa' no mês de Fevereiro de 2020?
+
+      10 - Quais clientes ainda não receberam emails?
+
+      11 - Quais os produtos que não foram comprados por 'Amadeu da Costa'?
+
+      12 - Crie uma visão que exiba todas as avaliações já realizadas por cliente. A visão deve exibir o texto da Avaliação, assim  como, o código e nome do Cliente e do Produto avaliado.
+
+      13 - Crie uma visão que liste todos os dados das ordens de compra juntamente do valor total da sua nota fiscal, o nome do cliente que efetuou a compra e o nome da transportadora responsável pelo transporte do pedido.
+
+      14 - Crie uma trigger para associar uma compra a transportadora que menos tiver compras associadas no momento da inserção de algum produto na compra.
+
+      15 - Implemente uma procedure PL/SQL chamada remover_produto_vencido. Esta procedure recebe o código de um produto e remove o mesmo do banco, caso ele esteja vencido.
+
+    
